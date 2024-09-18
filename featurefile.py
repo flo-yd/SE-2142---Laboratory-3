@@ -1,5 +1,7 @@
 # insert feature from branch 1 here:
-
+def hello():
+  text = "hello"
+  print(text)
 
 # insert feature from branch 2 here:
 
