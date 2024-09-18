@@ -5,6 +5,6 @@
 
 
 # to be fixed by branch 3:
-def randomFunction()
-  randomText = hello
+def randomFunction():
+  randomText = 'hello'
   print(randomText)
